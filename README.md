@@ -1,4 +1,4 @@
-# purchases-android
+# payblast-purchases-android
 
 Payblast Android SDK (Play Billing)
 
